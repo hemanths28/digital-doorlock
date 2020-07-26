@@ -217,7 +217,7 @@ DD:	   MOV A,#'D'
 
 
 H: CLR P3.0
-   CLR P3.1
+   CLR P3.2
    CLR P3.2
    CLR P3.3
    JMP M
